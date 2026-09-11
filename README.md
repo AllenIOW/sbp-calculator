@@ -71,6 +71,10 @@ with what you expected the figure to be and why. That file contains exactly
 the inputs that produced what you saw, so the result can be reproduced rather
 than guessed at.
 
+Send it to me on
+[LinkedIn](https://www.linkedin.com/in/jamie-allen-67308438), which is the
+easiest way to reach me.
+
 ## About this repository
 
 This holds the **built tool only** — a single self-contained HTML file. The
@@ -80,8 +84,8 @@ Engine version 0.2.0.
 
 ---
 
-Built by Jamie Allen. Contact: _[add your preferred contact — LinkedIn is
-probably easiest]_
+Built by Jamie Allen —
+[linkedin.com/in/jamie-allen-67308438](https://www.linkedin.com/in/jamie-allen-67308438)
 
 © Jamie Allen. All rights reserved. No licence is granted to copy, modify or
 redistribute this tool.
